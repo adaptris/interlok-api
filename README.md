@@ -1,2 +1,2 @@
-# interlok-api
-The suggested name was `upgraded-computing-machine`
+# interlok-api [![GitHub tag](https://img.shields.io/github/tag/adaptris/interlok-api.svg)](https://github.com/adaptris/interlok-api/tags) ![license](https://img.shields.io/github/license/adaptris/interlok-api.svg) [![Build Status](https://travis-ci.org/adaptris/interlok-api.svg?branch=develop)](https://travis-ci.org/adaptris/interlok-api) [![codecov](https://codecov.io/gh/adaptris/interlok-api/branch/develop/graph/badge.svg)](https://codecov.io/gh/adaptris/interlok-api)
+

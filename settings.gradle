@@ -1,0 +1,3 @@
+rootProject.name = 'interlok-api'
+include 'interlok-client'
+include 'interlok-client-jmx'
