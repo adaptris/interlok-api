@@ -49,4 +49,4 @@ publishing {
   }
 }
 
-javadoc.dependsOn umlJavadoc
+javadoc.dependsOn offlinePackageList
