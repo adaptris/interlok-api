@@ -15,7 +15,7 @@ ext {
 
   interlokJavadocs= project.hasProperty('interlokJavadocs') ? project.getProperty('interlokJavadocs') : javadocsBaseUrl + "/interlok-core/" + interlokCoreVersion
   interlokCommonJavadocs= project.hasProperty('interlokJavadocs') ? project.getProperty('interlokJavadocs') : javadocsBaseUrl + "/interlok-common/" + interlokCoreVersion
-  slf4jVersion = '1.7.25'
+  slf4jVersion = '1.7.26'
 }
 
 if (JavaVersion.current().isJava8Compatible()) {
